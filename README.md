@@ -1,0 +1,1 @@
+test for editable installation
